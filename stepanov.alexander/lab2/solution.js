@@ -7,4 +7,4 @@ function formatPhoneNumber(number) {
   return `+7 (${code}) ${first}-${second}-${third}`;
 }
 
-export { formatPhoneNumber };
+export {formatPhoneNumber};
